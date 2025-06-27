@@ -31,7 +31,7 @@ NeoCompliance-Pro/
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](https://github.com/TanmaySingh007/NeoCompliance-Pro/blob/main/public/screenshot.png)
+![Homepage Screenshot](https://github.com/TanmaySingh007/NeoCompliance-Pro/blob/ce98c7412551ed72d5bb46341a7a9fddce3b4b4f/Neo.png)
 <!-- Replace this with an actual screenshot path if available -->
 
 ## 🧑‍💻 Getting Started
