@@ -1,89 +1,95 @@
-# Welcome to NeoCompliance-Pro
+# 🛡️ NeoCompliance-Pro
 
-A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI components. This template provides a solid foundation for building web applications with best practices in mind.
+**NeoCompliance-Pro** is a modern web application designed for intelligent compliance checking, powered by clean UI and robust frontend tooling. Built with **React 18**, **TypeScript**, **Vite**, **TailwindCSS**, and **ShadCN UI**, it delivers a sleek, performant, and developer-friendly experience out of the box.
 
-## Tech Features
+## 🚀 Features
 
-- ⚡️ **Vite** - Lightning fast build tool
-- 🔥 **React 18** - Latest React features
-- 🧩 **TypeScript** - Type safety for better developer experience
-- 🎨 **TailwindCSS** - Utility-first CSS framework
-- 🧰 **ShadCN UI** - Accessible and customizable UI components
-- 📱 **Responsive Design** - Mobile-first approach
-- 🧭 **React Router** - Easy client-side routing
-- 🔄 **React Query** - Data fetching and state management
-- 🧪 **Form Handling** - React Hook Form with Zod validation
+- ⚡️ Lightning-fast build with **Vite**
+- 🧠 Built using **React 18** + **TypeScript** for type safety and modularity
+- 🎨 Styled with **TailwindCSS** and components from **ShadCN UI**
+- 🎞️ Seamless animations with **Framer Motion**
+- 🔒 Structured architecture with scalable folder organization
+- ✅ Ready for integration with compliance APIs or AI-powered checking tools
 
-## Getting Started
+## 📂 Project Structure
+
+```
+NeoCompliance-Pro/
+├── src/
+│   ├── components/       # Reusable UI components
+│   ├── pages/            # Application pages
+│   ├── lib/              # Utility functions and helpers
+│   ├── config/           # Theme and UI config
+│   ├── assets/           # Static assets
+│   └── main.tsx          # App entry point
+├── public/               # Public assets
+├── index.html            # HTML template
+├── tailwind.config.ts    # Tailwind CSS configuration
+├── tsconfig.json         # TypeScript configuration
+└── vite.config.ts        # Vite configuration
+```
+
+## 📸 Screenshots
+
+![Homepage Screenshot](https://github.com/TanmaySingh007/NeoCompliance-Pro/blob/main/public/screenshot.png)
+<!-- Replace this with an actual screenshot path if available -->
+
+## 🧑‍💻 Getting Started
 
 ### Prerequisites
 
-- Node.js 18+ 
-- npm or yarn or pnpm
+- Node.js (>=18)
+- npm or yarn
 
 ### Installation
 
-1. Clone this repository:
+1. Clone the repository:
+
 ```bash
-git clone https://github.com/your-username/react-template-project.git
-cd react-template-project
+git clone https://github.com/TanmaySingh007/NeoCompliance-Pro.git
+cd NeoCompliance-Pro
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 # or
-yarn
-# or
-pnpm install
+yarn install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
 ```
 
-4. Open your browser and visit `http://localhost:5173`
+The app will be running at `http://localhost:5173`
 
-## Project Structure
+## 🛠️ Tech Stack
 
-```
-react-template-project/
-├── public/              # Static assets
-│   ├── components/      # Reusable components
-│   │   └── ui/          # UI components from ShadCN
-│   ├── hooks/           # Custom React hooks
-│   ├── lib/             # Utility functions and libraries
-│   ├── pages/           # Page components
-│   ├── App.tsx          # Main application component
-│   ├── index.css        # Global styles
-│   └── main.tsx         # Application entry point
-├── .gitignore
-├── package.json         # Project dependencies and scripts
-├── tailwind.config.ts   # TailwindCSS configuration
-├── tsconfig.json        # TypeScript configuration
-└── vite.config.ts       # Vite configuration
-```
+- **React 18**
+- **TypeScript**
+- **TailwindCSS**
+- **Vite**
+- **ShadCN UI**
+- **Framer Motion**
 
-## Customization
+## 🌐 Live Demo
 
-- **Styling**: Modify `tailwind.config.ts` to customize your design tokens
-- **Components**: Add or modify components in the `src/components` directory
-- **Pages**: Create new pages in the `src/pages` directory
-- **Routing**: Update routes in `src/App.tsx`
+[🔗 Deployed Version )](https://neocompliance-pro7.netlify.app/)
+<!-- Replace with your live link if available -->
 
-## Building for Production
+## 🤝 Contributing
 
-```bash
-npm run build
-# or
-yarn build
-# or
-pnpm build
-```
+Contributions are welcome! Feel free to open issues or submit PRs for improvements, bugs, or enhancements.
 
-The built files will be in the `dist` directory, ready to be deployed.
+## 📄 License
+
+This project is licensed under the MIT License. 
+
+---
+
+> Built with ❤️ by [Tanmay Singh](https://www.linkedin.com/in/tanmay-singh-228097272/)
